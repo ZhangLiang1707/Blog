@@ -2,7 +2,7 @@
 title: 张良的博客
 email: zhangliang1707@gmail.com
 description: 这是我的博客用来记录我前段学习的点点滴滴！
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/Blog" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  zhangliang1707
